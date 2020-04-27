@@ -1,4 +1,4 @@
-# Victor Hugo
+# HammerSport Marketing Website Generator
 
 **A Hugo boilerplate for creating truly epic websites**
 
