@@ -6,6 +6,8 @@ This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site gene
 
 Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling.
 
+Netifly CMS to add an easy to configure & use interface for making live content changes to the website.
+
 This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
 
 ## Usage
