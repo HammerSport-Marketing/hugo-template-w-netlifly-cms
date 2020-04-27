@@ -8,7 +8,7 @@ Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babe
 
 Netifly CMS to add an easy to configure & use interface for making live content changes to the website.
 
-This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+This project is released under the [MIT license](LICENSE) and maintained by HammerSport Marketing. Please make sure you understand its implications and guarantees.
 
 ## Usage
 
